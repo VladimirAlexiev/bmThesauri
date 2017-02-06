@@ -2,7 +2,11 @@ British Museum thesauri
 ================================================
 
 These thesauri have been extracted from the collection.britishmuseum.org sparql endpoint, where they exist in SKOS format.
-I wanted an easy way to look at the entire set in one go, they are intended to allow easy co-referencing of the PAS structure with the BM's for CIDOC-CRM mapping.
+- See https://confluence.ontotext.com/display/ResearchSpace/Meta-Thesaurus+and+FR+Names#Meta-ThesaurusandFRNames-BMThesaurus for a list of the concept schemes and descriptions.
+- You can get a thesaurus by using the "Object" tab of its concept scheme, eg http://collection.britishmuseum.org/resource?uri=http://collection.britishmuseum.org/id/place&role=object for "place"
+- See [BM-thes-count.txt](./BM-thes-count.txt) for counts.
+
+I wanted an easy way to look at the entire set in one go, they are intended to allow easy co-referencing of the PAS structure with the BM's for CIDOC-CRM mapping. 
 
 Each file's basic structure presents:
 
